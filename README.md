@@ -1,5 +1,7 @@
 # Stackathon Project - Sarah Herr
+
 This is the stackathon project made by Sarah Herr during her time at Grace Hopper.
+
 	- Start date: April 26, 2017
 	- Presentation date: May 1, 2017
 
@@ -7,6 +9,7 @@ This is the stackathon project made by Sarah Herr during her time at Grace Hoppe
 ## What is the project?
 
 This is an app that displays how species interact with other species. 
+
 The focus of this app is to become more comfortable with graphical databases and to show the interactions between species.
 
 
